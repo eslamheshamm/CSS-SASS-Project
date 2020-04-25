@@ -152,6 +152,6 @@ body {
 .btn-animated {
     animation-name: moveInBottom;
     animation-duration: 2s;
-    animation: moveInBottom .5s ease-out .75s; 
+    animation: moveInBottom .5s ease-out 1s; 
     animation-fill-mode: backwards;
 }
